@@ -1,4 +1,4 @@
-A custom dynamic array implemenation in C++. 
+A custom dynamic array implemenation in C++.  
 Created by referencing 
 https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/ 
 and 
